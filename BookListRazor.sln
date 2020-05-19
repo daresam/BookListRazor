@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookListRazor", "BookListRazor\BookListRazor.csproj", "{5498E22E-4FA6-4C50-BA3C-27CA498E567C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5498E22E-4FA6-4C50-BA3C-27CA498E567C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5498E22E-4FA6-4C50-BA3C-27CA498E567C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5498E22E-4FA6-4C50-BA3C-27CA498E567C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5498E22E-4FA6-4C50-BA3C-27CA498E567C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91477690-4B6E-4862-908F-074801F696BF}
+	EndGlobalSection
+EndGlobal
